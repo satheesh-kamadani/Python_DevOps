@@ -14,3 +14,5 @@ Python scripts for DevOps
   - String concatenation ([string-concat.py](Day-02/string-concat.py))
   - String to lowercase ([string-lowercase.py](Day-02/string-lowercase.py))
   - String to uppercase ([string-uppercase.py](Day-02/string-uppercase.py))
+  - Search for a substring ([string-substring.py](Day-02/string-substring.py))
+  - Search for a substring ([string-substring1.py](Day-02/string-substring1.py))
