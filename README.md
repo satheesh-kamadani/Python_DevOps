@@ -12,3 +12,5 @@ Python scripts for DevOps
 - Strings
   - String length ([string-len.py](Day-02/string-len.py))
   - String concatenation ([string-concat.py](Day-02/string-concat.py))
+  - String to lowercase ([string-lowercase.py](Day-02/string-lowercase.py))
+  - String to uppercase ([string-uppercase.py](Day-02/string-uppercase.py))
