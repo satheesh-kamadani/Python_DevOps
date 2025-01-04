@@ -14,7 +14,7 @@ Python scripts for DevOps
 - Interger
 - Regular Expressions
 
-## Day-02
+## Day-03
 ### Data types
 - Keywords
 - Variables
