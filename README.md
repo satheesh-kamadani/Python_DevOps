@@ -12,12 +12,20 @@ Python scripts for DevOps
 - Strings
 - Float
 - Interger
-- Regular Expressions
+- Regular expressions
 
 ## Day-03
 ### Data types
 - Keywords
 - Variables
+
+## Day-04
+### Data types
+- Functions
+- Modules
+- Packages
+- Virtual environments
+
 
 
  
