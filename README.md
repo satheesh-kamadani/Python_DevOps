@@ -15,16 +15,21 @@ Python scripts for DevOps
 - Regular expressions
 
 ## Day-03
-### Data types
 - Keywords
 - Variables
 
 ## Day-04
-### Data types
 - Functions
 - Modules
 - Packages
 - Virtual environments
+
+## Day-05
+- Command line arguments
+- Environment variables
+
+
+
 
 
 
