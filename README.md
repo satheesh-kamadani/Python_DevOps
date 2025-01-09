@@ -1,5 +1,5 @@
-# Python_DevOps
-Python scripts for DevOps
+# Python for DevOps
+Learn Python from DevOps Engineer point of you
 
 ## Day-01
 - Python basics
