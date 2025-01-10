@@ -25,8 +25,23 @@ Learn Python from DevOps Engineer point of you
 - Virtual environments
 
 ## Day-05
+- Operators
+   Arthematic operators
+   Comparison operators
+   Logical operators
+   Assignment operators
+   Relational operators
+   Identity operators
+   Membership operators
+   Bitwise operators
+
+## Day-06
 - Command line arguments
 - Environment variables
+
+## Day-07
+- Contional statments
+  if, elif and else
 
 
 
