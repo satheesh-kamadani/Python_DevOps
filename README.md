@@ -43,6 +43,11 @@ Learn Python from DevOps Engineer point of you
 - Contional statments
   if, elif and else
 
+## Day-08
+- List
+
+
+
 
 
 
